@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ \ \ \ This\ is\ the\ Main\ class.\ Here\ I\ have\ created\ a\ new\ \r\n\ \ \ \ Student\ array\ and\ populated\ it\ with\ student\ entries,\ each\ one\r\n\ \ \ \ containing\ a\ student\ ID,\ name,\ and\ gpa.\ I\ then\ use\ Arrays.sort\ to\r\n\ \ \ \ sort\ the\ array\ and\ a\ for-each\ loop\ to\ display\ the\ entries\ in\ the\ array\r\n\ \ \ \ sorted.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

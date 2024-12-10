@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ This\ is\ the\ Student\ class,\ it\ implements\ Comparable.\r\n\ Here\ you\ can\ create\ a\ new\ Student\ with\ a\ studentID,\ name\ and\ their\ gpa.\r\n\ There\ are\ getter\ functions\ that\ allow\ you\ to\ retrieve\ the\ student\ ID,\ name,\ and\ gpa.\r\n\ \r\n\ We\ also\ have\ a\ compareTo\ method\ that\ will\ compare\ Student\ GPAs.\r\n
+comment1.params=studentId\ name\ gpa
+comment1.target=Student(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=int\ getStudentId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=double\ getGPA()
+comment5.params=s
+comment5.target=int\ compareTo(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
